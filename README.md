@@ -1,1 +1,1 @@
-# ecommerce
+# Jewels E-Commerce Store
